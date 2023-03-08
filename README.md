@@ -1,8 +1,8 @@
 # ML_Capstone_Mobile-price-range-prediction
 
-Almabetter capstone project
+##**Almabetter capstone project
 
-Machine Learning Algorithms using Python 3 to predict price ranges of mobile phone
+**Machine Learning Algorithms using Python 3 to predict price ranges of mobile phone
 
 Finally we made result in cross validation of XGB classifier.
 
